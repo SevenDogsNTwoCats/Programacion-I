@@ -1,2 +1,2 @@
-# Proyecto6
-Proyecto6 -Analisis de funciones-MM314
+# Programacion I
+Programas en c++, por lo general se miran en la clase de programacion I en la UNAH
